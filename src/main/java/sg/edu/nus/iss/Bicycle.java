@@ -1,6 +1,6 @@
 package sg.edu.nus.iss;
 
-public class Bicycle {
+public class Bicycle implements Startable {
     private int gear;
     private int speed;
 
